@@ -25,7 +25,7 @@ django-admin startproject ftf .
 ```
 
 ### Create app
-Here we're going to call our first `books`
+Cool now we're going to call our first app `books`
 ```bash
 python manage.py startapp books
 ```
